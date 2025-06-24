@@ -1,0 +1,16 @@
+# Core Dependencies
+Flask==2.3.3
+Werkzeug==2.3.7
+
+# QR Code Generation
+qrcode==7.4.2
+Pillow==10.0.1
+
+# SMS Integration (Optional)
+twilio==8.10.0
+
+# Additional Security
+python-dotenv==1.0.0
+
+# Development Dependencies (Optional)
+# flask-cors==4.0.0  # For cross-origin requests if needed
